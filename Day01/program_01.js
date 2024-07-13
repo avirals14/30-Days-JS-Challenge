@@ -1,12 +1,15 @@
 // task1
 var v1 = 5;
 console.log(v1);
+
 // task2
 let v2 = "String";
 console.log(v2);
+
 // task 3
 const b1 = true;
 console.log(b1);
+
 // task 4
 const arr = new Array (1,2,3,4,5);
 const car = {type: "Ford", model:"500", color: "white"};
@@ -23,3 +26,7 @@ myvar = 7
 console.log("Final : ",myvar)
 
 // task6
+const notvar = 45
+console.log(notvar)
+// notvar = 7 // const can't be changed or reassinged to new value
+console.log(notvar)
