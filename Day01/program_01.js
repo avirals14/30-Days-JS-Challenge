@@ -14,3 +14,9 @@ console.log("String : ",v2,"\tType : ",typeof(v2));
 console.log("Boolean : ",b1,"\tType : ",typeof(b1));
 console.log("Array : ",arr,"\tType : ",typeof(arr));
 console.log("Object : ",car,"\tType : ",typeof(car));
+
+// task4
+let myvar = 18
+console.log("Initial : ",myvar)
+myvar = 7
+console.log("Final : ",myvar)
